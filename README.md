@@ -116,3 +116,9 @@ Further resources:
 ## Lab Submission
 
 In Canvas, add relevant text and links to your work.
+
+
+<img width="541" alt="Screen Shot 2023-02-06 at 1 52 45 PM" src="https://user-images.githubusercontent.com/22225723/217060836-2797abe5-c03c-4ddb-84e3-7f715ecc5d36.png">
+
+
+
